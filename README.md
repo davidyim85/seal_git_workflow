@@ -1,4 +1,4 @@
-dev branch update
+dev branch update.
 
 
-News from the team
+News from the team.
